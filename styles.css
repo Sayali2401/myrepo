@@ -1,0 +1,38 @@
+/* General body styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f8ff;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style for headings */
+  h1 {
+    color: #333;
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 20px;
+  }
+  
+  /* Styling for paragraphs */
+  p {
+    color: #555;
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin: 10px 20px;
+  }
+  
+  /* Add styling to buttons */
+  button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
